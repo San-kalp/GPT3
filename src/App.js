@@ -1,7 +1,9 @@
 import React from 'react'
 
 import {Footer,Blog,Possibility,Features,WhatGPT3,Header} from './containers';
- import {Cta, Navbar, Brand} from './components';
+import {Cta, Navbar, Brand} from './components';
+import './App.css';
+
 
 
 const App = () => {
